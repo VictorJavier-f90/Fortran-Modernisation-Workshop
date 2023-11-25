@@ -1,1 +1,1 @@
-# Fortran-Modernisation-Workshop
+# Fortran Modernisation Workshop
